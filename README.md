@@ -1,7 +1,9 @@
 # Custom keyboard
 It all started with my dad getting arthritis, which is a genetic disease causing pain in the articulations. However, it can be minimized and even prevented, thus why I started to look into ergonomic 
 keyboards between other things to take care of my articulations since young. \
-Warning: This takes time to adjust if you want to join the niche of small keyboards because it works with layers, all the keys are there but you use them switching layer or with a combo of strokes.
+Warning: This takes time to adjust if you want to join the niche of small keyboards because it works with layers, all the keys are there but you use them switching layer or with a combo of strokes.\
+<img width="1600" height="897" alt="WhatsApp Image 2026-09-15 at 23 48 27" src="https://github.com/user-attachments/assets/c1919d89-fa88-49cb-b85e-70862aa7a600" />
+
 
 ## Step 1: Investigation
 There were a lot of ergonomic keyboards in the market, all of which very expensive. So I decided to build my own based on a repository I found "tompi/cheapino", which I used as the base and configured for my hand size and preferences.
