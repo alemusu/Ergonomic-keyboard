@@ -36,4 +36,4 @@ I built it following tompi's guide, it's quite simple just solder the diodes in 
 and the potentiometer's cover. Connect everything together and now the fun part.
 
 ## Step 5: Firmware
-For the keyboard to work you have to boot a firmware into the MCU, it can be done easily in the web "vial.rocks". I'll upload my configuration so that you can take a peek.
+For the keyboard to work you have to boot a firmware into the MCU, it can be done easily in the web "vial.rocks". I'll upload my configuration so that I don't loose it.
